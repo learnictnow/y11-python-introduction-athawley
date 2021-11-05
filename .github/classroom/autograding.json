@@ -1,19 +1,9 @@
 {
   "tests": [
     {
-      "name": "input_hello_world_1",
+      "name": "Q1_Hello_World",
       "setup": "",
-      "run": "python output/output_hello_world.py",
-      "input": "",
-      "output": "Kia ora ao!",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "hello_world",
-      "setup": "",
-      "run": "python hello_world.py",
+      "run": "python q1_hello_world.py",
       "input": "",
       "output": "Hello World",
       "comparison": "included",
